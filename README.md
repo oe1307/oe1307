@@ -1,6 +1,4 @@
-## Issa Oe
-
-### 🌿 my skills
+## 🌿 my skills
 
 ![skill](https://skillicons.dev/icons?i=py,cpp,c,html,css,pytorch)
 
